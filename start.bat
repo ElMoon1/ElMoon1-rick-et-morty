@@ -1,0 +1,2 @@
+node RickEtMortySelf.js
+pause
